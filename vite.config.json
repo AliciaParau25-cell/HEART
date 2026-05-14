@@ -1,5 +1,5 @@
 {
-  "base": "./",
+  "base": "/HEART/",
   "plugins": [],
   "define": {
     "process.env.GEMINI_API_KEY": ""
