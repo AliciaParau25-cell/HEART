@@ -1,0 +1,19 @@
+{
+  "plugins": [],
+  "define": {
+    "process.env.GEMINI_API_KEY": ""
+  },
+  "resolve": {
+    "alias": {
+      "@": "."
+    }
+  },
+  "build": {
+    "cssCodeSplit": false,
+    "assetsInlineLimit": 100000000
+  },
+  "server": {
+    "hmr": true,
+    "watch": {}
+  }
+}
